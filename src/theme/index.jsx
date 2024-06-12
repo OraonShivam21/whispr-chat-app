@@ -11,4 +11,5 @@ import {
 import useSettings from "../hooks/useSettings";
 //
 import palette from "./palette";
+import typography from "./typography";
 
