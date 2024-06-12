@@ -1,5 +1,6 @@
 import { createContext } from "react";
 import { defaultSettings } from "../config";
+import { defaultPreset } from "../utils/getColorPresets";
 
 const initialState = {
   ...defaultSettings,
