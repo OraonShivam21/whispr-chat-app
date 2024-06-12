@@ -2,6 +2,7 @@ import React from "react";
 import { useDispatch, useSelector } from "react-redux";
 import Snackbar from "@mui/material/Snackbar";
 import MuiAlert from "@mui/material/Alert";
+import { closeSnackBar } from "./redux/slicer/app.jsx";
 
 const vertical = "bottom";
 const horizontal = "center";
