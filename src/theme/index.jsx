@@ -9,3 +9,6 @@ import {
 } from "@mui/material";
 // hooks
 import useSettings from "../hooks/useSettings";
+//
+import palette from "./palette";
+
