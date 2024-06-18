@@ -6,3 +6,4 @@ import Menu from "./Menu";
 import Link from "./Link";
 import Lists from "./List";
 import Table from "./Table";
+import Alert from "./Alert";
