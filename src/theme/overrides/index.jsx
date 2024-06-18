@@ -7,3 +7,4 @@ import Link from "./Link";
 import Lists from "./List";
 import Table from "./Table";
 import Alert from "./Alert";
+import Badge from "./Badge";
