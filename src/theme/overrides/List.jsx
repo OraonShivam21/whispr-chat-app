@@ -1,5 +1,3 @@
-import { minWidth } from "@mui/system";
-
 export default function List(theme) {
   return {
     MuiListItemIcon: {
